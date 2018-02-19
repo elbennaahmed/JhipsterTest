@@ -1,0 +1,2 @@
+# JhipsterTest
+for terminal class
